@@ -1,6 +1,5 @@
 # Semester_Project
 
-
 A HOSPITAL MANAGEMENT SYSTEM USING C++ 
 
 
